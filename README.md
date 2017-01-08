@@ -1,4 +1,4 @@
-# Registering Serivces
+# Registering Services
 Account server started and registered
 ![Registration service](screenshots/accountServerStartedRegistered.png)
 
